@@ -21,6 +21,11 @@ Feel free to reach out to discuss potential collaborations, research opportuniti
 
 ---
 
+### 🌟 Fun Fact  
+I’m from a remote region with a rich ecological heritage, and I love finding ways to merge **technology**, **culture**, and **sustainability**! 
+
+---
+
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=tariqaxix&label=Profile%20views&color=0e75b6&style=flat" alt="tariqaxix" /> 
 </p>
