@@ -12,7 +12,7 @@
 
 I'm an **MSc student** in Engineering of Data-Intensive Intelligent Software Systems at **Åbo Akademi University, Finland**, on **Erasmus Mundus scholarship**.
 
-My work sits at the intersection of **machine learning**, **data engineering**, and **applied AI** — building things that actually work in the real world. Over the past three years I've delivered **50+ projects** for international clients spanning predictive modelling, NLP, data pipelines, and automated tooling.
+My work sits at the intersection of **machine learning**, **data engineering**, and **applied AI** - building things that actually work in the real world. Over the past three years I've delivered **50+ projects** for international clients spanning predictive modelling, NLP, data pipelines, and automated tooling.
 
 Currently researching **State-of-Health prediction and Remaining Useful Life estimation for virtual power plants** using time-series ML models.
 
@@ -20,10 +20,10 @@ Currently researching **State-of-Health prediction and Remaining Useful Life est
 
 ### 🔨 What I Build
 
-- **AI-powered tools** — end-to-end, from brief to deployed product
-- **Data pipelines & ETL systems** — structured, reproducible, production-ready
-- **ML models** — time-series forecasting, graph ML, NLP, deep learning
-- **Dashboards & BI** — Power BI, Streamlit, Plotly
+- **AI-powered tools**: end-to-end, from brief to deployed product
+- **Data pipelines & ETL systems**: structured, reproducible, production-ready
+- **ML models**: time-series forecasting, graph ML, NLP, deep learning
+- **Dashboards & BI**: Power BI, Streamlit, Plotly
 
 ---
 
@@ -59,9 +59,9 @@ Currently researching **State-of-Health prediction and Remaining Useful Life est
 
 ### 🏆 Honours
 
-- 🎓 **Erasmus Mundus Scholarship (2025)** — competitive EU-funded MSc scholarship
-- 🥇 **Best Computer Science Graduate** — University of Central Asia, 2025
-- 📚 **Dean's Honour Award** — 4 consecutive years (2021-2025)
+- 🎓 **Erasmus Mundus Scholarship (2025)** - competitive EU-funded MSc scholarship
+- 🥇 **Best Computer Science Graduate** - University of Central Asia, 2025
+- 📚 **Dean's Honour Award** - 4 consecutive years (2021-2025)
 
 ---
 
